@@ -1,0 +1,5 @@
+//calculating the area of RECTANGLE using java
+        int length=30;
+        int breadth=10;
+        int area=length*breadth;
+        System.out.println(area);
